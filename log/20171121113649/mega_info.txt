@@ -1,0 +1,12 @@
+Training: epoch 200, batch size 512
+Accuracy score: 0.5419182536
+Confusion matrix:
+            Angry    Disgust     Fear     Happy      Sad     Surprise  Neutral  
+  Angry      585        32       123        93       112        52       169    
+ Disgust      23        68        8         9         9         2         5     
+   Fear      212        19       407        91       151       181       130    
+  Happy      151        12        68       1643      107        69       149    
+   Sad       221        37       209       160       458        63       291    
+ Surprise     49        9         85        54        19       757        45    
+ Neutral     159        11       115       202       176        63       749    
+

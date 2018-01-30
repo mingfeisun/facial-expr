@@ -1,0 +1,11 @@
+Training: epoch 50, batch size 256
+Confusion matrix:
+            Angry    Disgust     Fear     Happy      Sad     Surprise  Neutral  
+  Angry      306        2         51       503       138        8        158    
+ Disgust      16        22        2         64        11        2         7     
+   Fear      114        5        193       514       137        28       200    
+  Happy       77        0         18       1920       82        5         97    
+   Sad       141        3         72       643       300        3        277    
+ Surprise     59        3         70       418        42       295       131    
+ Neutral     119        1         29       616       149        5        556    
+
